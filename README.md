@@ -17,7 +17,7 @@
 - HTML/CSS (Bootstrap 5)
 
 ## Ссылка на трекер задач
-https://trello.com/b/... (доска с задачами)
+https://github.com/users/wiwix-yup/projects/2
 
 ## Запуск
 ```bash
