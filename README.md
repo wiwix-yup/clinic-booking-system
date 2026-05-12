@@ -20,5 +20,6 @@
 ### 1. Ознакомьтесь с проектом
 https://github.com/wiwix-yup/clinic-booking-system
 и с задачами по проекту
-https://github.com/users/wiwix-yup/projects/2
+https://github.com/users/wiwix-yup/projects/2.
+поочередно открывайте файлы: sozdanie_bd, add_data, proverka-zanyatosti, test_overlap.
 В ходе разработки и тестировки были найдены все баги и вовремя исправлены. Все функции работают исправно, выполняется полный обязатяльный функционал записей с созданием бд и внесением данных.
