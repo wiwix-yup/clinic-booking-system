@@ -22,6 +22,10 @@ https://github.com/wiwix-yup/clinic-booking-system
 и с задачами по проекту
 https://github.com/users/wiwix-yup/projects/2.
 Туториал на запуск кода: 
+скачайте пайчарм и при загрузке поставьте эту галочку.
+<img width="803" height="571" alt="image" src="https://github.com/user-attachments/assets/686fa27e-1cdb-497d-b793-11585b97c303" />
+
+
 поочередно скачайте архивированные файлы: sozdanie_bd, add_data, proverka-zanyatosti, test_overlap.
 после переместите файлы в папку пайчарм, она должна выглядеть примерно так: 
 
