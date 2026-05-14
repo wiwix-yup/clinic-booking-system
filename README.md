@@ -1,6 +1,6 @@
 # clinic-booking-system
 Система записи на приём к врачу в частной клинике
-# Проект: Запись к врачу в частной клинике «MedRecord-Online» [презентация.pptx](https://github.com/user-attachments/files/27701830/default.pptx)
+# Проект: Запись к врачу в частной клинике «MedRecord-Online»
 
 ## Команда
 - Шацкова София-разработчик\тестировщик
@@ -37,4 +37,4 @@ https://github.com/users/wiwix-yup/projects/2.
 В ходе разработки и тестировки были найдены все баги и вовремя исправлены. Все функции работают исправно, выполняется полный обязатяльный функционал записей с созданием бд и внесением данных.
 ниже прикрепляю файлы с презентацией и проектом.
 [проект.docx](https://github.com/user-attachments/files/27701869/default.docx)
-[презентация.pptx](https://github.com/user-attachments/files/27701832/default.pptx)
+[презентация.pptx](https://github.com/user-attachments/files/27754191/default.pptx)
